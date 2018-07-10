@@ -4,7 +4,7 @@
 # See vignette at https://rawgit.com/wiki/Rdatatable/data.table/vignettes/datatable-intro-vignette.html
 library(data.table)
 
-setwd("~/Dropbox/rugby_data/WSS_16/output")
+setwd("/output")
 
 PlyrStats <- fread("TOTAL-plyr-stats_2016-17_WSS_Capetown.csv")
 

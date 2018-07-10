@@ -10,7 +10,7 @@ library(jsonlite)
 
 # Change to tournament's JSON data directory
 # ~/Dropbox/WSS_15/json_data/TOURNAMENTDIR
-setwd("~/Dropbox/rugby_data/WSS_16/json_data/downloads")
+setwd("json_data/downloads")
 
 # code snippet from https://psychwire.wordpress.com/2011/06/03/merge-all-files-in-a-directory-using-r-into-a-single-dataframe/
 

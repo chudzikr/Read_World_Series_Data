@@ -2,7 +2,7 @@
 # Written Feb '16, update Jul '16
 #
 library(jsonlite)
-setwd("~/Dropbox/rugby_data/WSS_16/json_data/downloads")
+setwd("/json_data/downloads")
 
 #
 # matchData <- fromJSON("22893.json")
